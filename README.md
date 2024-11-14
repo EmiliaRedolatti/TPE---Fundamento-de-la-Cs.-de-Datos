@@ -18,7 +18,7 @@ Existen dos formas posibles para descargar el proyecto:
 ### 2. **Clonar el repositorio (usando Git)**
 
 1. Copia la URL del repositorio:
-   - Haz clic en el botón verde **Code** y copia la URL que aparece en el recuadro. La URL suele ser algo como `https://github.com/EmiliaRedolatti/TPE---Fundamento-de-la-Cs.-de-Datos.git`.
+   - Haz clic en el botón verde **Code** y copia la URL que aparece en el recuadro. La URL suele ser algo como `https://github.com/EmiliaRedolatti/TPE-Fundamento-de-la-Cs.-de-Datos-Grupo30.git`.
 
 2. Abre una terminal o línea de comandos.
 
