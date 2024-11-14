@@ -26,7 +26,7 @@ Existen dos formas posibles para descargar el proyecto:
 
 4. Ejecuta el comando `git clone` seguido de la URL del repositorio:
    ```bash
-   git clone https://github.com/EmiliaRedolatti/TPE---Fundamento-de-la-Cs.-de-Datos.git
+   git clone https://github.com/EmiliaRedolatti/TPE-Fundamento-de-la-Cs.-de-Datos-Grupo30.git
 
 ## Ejecucion del Proyecto
 * Para poder ejecutar el proyecto debe instalar python
