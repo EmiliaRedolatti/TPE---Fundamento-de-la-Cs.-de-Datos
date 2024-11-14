@@ -39,6 +39,7 @@ Existen dos formas posibles para descargar el proyecto:
     `source venv/bin/activate` o `.\venv\Scripts\activate` para Windows
 * Instalar las dependencias del proyecto: utilizar la siguiente sentencia
   `pip install -r requirements.txt`
+* Luego se abre la carpeta del proyecto en el entorno de desarrollo y se ejecuta en el ambiente creado.
 
 
 
