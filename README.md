@@ -36,10 +36,14 @@ Existen dos formas posibles para descargar el proyecto:
   * Navega a la carpeta del proyecto.
   * Crea un entorno virtual:  `python -m venv <nombre_ambiente>`
   * Activa el entorno virtual: 
-    `source venv/bin/activate` o `.\venv\Scripts\activate` para Windows
+    `source venv/bin/activate` o `\Scripts\activate` para Windows
 * Instalar las dependencias del proyecto: utilizar la siguiente sentencia
   `pip install -r requirements.txt`
-* Luego se abre la carpeta del proyecto en el entorno de desarrollo y se ejecuta en el ambiente creado.
+* Luego se abre la carpeta del proyecto en el entorno de desarrollo.
+* Se debe instalar ipykernel: para permitir que la notebook ejecute codigo en python.
+  ```bash
+   pip install ipykernel
+
 
 
 
